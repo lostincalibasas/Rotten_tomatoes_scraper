@@ -8,5 +8,5 @@ This Python scraper extracts essential action movies data from Rotten Tomatoes, 
 🚀 Easy to Use: Simple Python script that outputs data to a CSV file for easy integration with other tools.
 
 ## Acknowledgments
-Hat tip to Rotten Tomatoes for providing valuable movie data.
+Hat tip to Rotten Tomatoes for providing valuable movie data.<br>
 Feel free to contribute, share, and enjoy the world of essential action cinema!
